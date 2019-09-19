@@ -2,13 +2,44 @@
 label: Blog-template
 hide_body: false
 fields:
-- name: template
-  type: blocks
-  template_types:
-  - blog-template
+- name: header
+  type: text
   config:
-    min: 
-    max: 
-  label: Template
-  description: dhhgj dfjhjfhj hjfkjh hjkfgjkh hkfjk hkj
-  hidden: false
+    required: false
+  label: Header
+  description: Title
+- name: date
+  type: datetime
+  label: Date
+  description: date and time
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+- name: tags
+  type: tag_list
+  default: []
+  label: tags
+  description: places,topic
+- name: description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: description
+  description: story
+- name: images
+  type: image_gallery
+  config: {}
+  label: images
+  description: upload images
+- name: sub_pages
+  type: include
+  config: {}
+  template: blog-template
+  label: sub pages
+  description: landing pages
