@@ -45,23 +45,23 @@ publishDir = "docs"
     [params.banner]
         enable  = true
         bgImage = "images/slider.jpg"
-        heading = "HI, MY NAME IS JONATHON & I AM A"
-        description = "WITH 10 YEARS EXPERIENCE, I'VE OCCUPIED MANY ROLES INCLUDING DIGITAL DESIGN DIRECTOR, WEB DESIGNER AND DEVELOPER. THIS SITE SHOWCASES SOME OF MY WORK."
+        heading = "SUPERCHARGE YOUR CUSTOMER SUPPORT"
+        description = "WITH NEXT-GEN VIRTUAL BOTS."
         btn     = true
-        btnText = "Download More"
+        btnText = "Schedule a Demo"
         btnURL  = "https://themefisher.com/"
         [[params.banner.flipText]]
-            title   = "DESIGNER"
+            title   = "Automate"
         [[params.banner.flipText]]
-            title   = "DEVELOPER"
+            title   = "Engage"
         [[params.banner.flipText]]
-            title   = "FATHER"
+            title   = "Reduce Cost "
 
     # Homepage About Section
     [params.about]
         enable  = true
-        title   = "ABOUT ME"
-        content = "Hello, I’m a UI/UX Designer & Front End Developer from Victoria, Australia. I hold a master degree of Web Design from the World University.And scrambled it to make a type specimen book. It has survived not only five centuries. <br> <br> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error, adipisci voluptatum repudiandae, natus impedit repellat aut officia illum at assumenda iusto reiciendis placeat. Temporibus, vero."
+        title   = "ABOUT US"
+        content = "We are a Singapore based Fintech startup with subsidiaries in the US and India, using artificial intelligence (AI) to deliver Conversational Banking services. We help banks and credit unions create intelligent virtual assistants, bringing in automation and insightful customer engagement. The company’s conversational banking technology uses advanced NLP and machine intelligence to enable customers to have natural dialogues over messaging, voice or IoT devices."
         image   = "images/about/about.jpg"
 
     # Call to Action
