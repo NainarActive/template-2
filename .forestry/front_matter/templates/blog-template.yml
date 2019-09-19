@@ -1,4 +1,14 @@
 ---
 label: Blog-template
 hide_body: false
-fields: []
+fields:
+- name: template
+  type: blocks
+  template_types:
+  - blog-template
+  config:
+    min: 
+    max: 
+  label: Template
+  description: dhhgj dfjhjfhj hjfkjh hjkfgjkh hkfjk hkj
+  hidden: false
