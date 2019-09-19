@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://nainaractive.github.io/template-2/"
 languageCode = "en-us"
 title = "Timer | Responsive Multipurpose Bootstrap Hugo Template"
 theme = "timer"
