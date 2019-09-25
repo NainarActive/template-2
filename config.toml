@@ -1,6 +1,6 @@
 baseURL = "https://nainaractive.github.io/template-2/"
 languageCode = "en-us"
-title = "Timer | Responsive Multipurpose Bootstrap Hugo Template"
+title = "Triniti.ai"
 theme = "timer"
 publishDir = "docs"
 
@@ -56,26 +56,61 @@ publishDir = "docs"
             title   = "Engage"
         [[params.banner.flipText]]
             title   = "Reduce Cost "
+      
+    # # Homepage About Section
+    # [params.about]
+    #     enable  = true
+    #     title   = "ABOUT US"
+    #     content = "We are a Singapore based Fintech startup with subsidiaries in the US and India, using artificial intelligence (AI) to deliver Conversational Banking services. We help banks and credit unions create intelligent virtual assistants, bringing in automation and insightful customer engagement. The company’s conversational banking technology uses advanced NLP and machine intelligence to enable customers to have natural dialogues over messaging, voice or IoT devices."
+    #     image   = "images/about/about.jpg"
 
-    # Homepage About Section
-    [params.about]
+     # Homepage text Section
+    [params.text]
         enable  = true
-        title   = "ABOUT US"
-        content = "We are a Singapore based Fintech startup with subsidiaries in the US and India, using artificial intelligence (AI) to deliver Conversational Banking services. We help banks and credit unions create intelligent virtual assistants, bringing in automation and insightful customer engagement. The company’s conversational banking technology uses advanced NLP and machine intelligence to enable customers to have natural dialogues over messaging, voice or IoT devices."
-        image   = "images/about/about.jpg"
+        title   = "The fastest way to automate your customer support"
+        content = "CognitiveQnA is a AI powered customer service automation platform which handles customer queries without any human intervention. CognitiveQnA applies cutting edge deep learning algorithms to understand and comprehend customer queries in order to find the best answer to the question, thus enabling higher customer satisfaction, lower customer service costs and transforming customer service into a competitive advantage."
+        image   = "images/triniti.png"
+
+     # Homepage how-does-work Section
+    [params.howDoesWork]
+        enable  = true
+        title   = "How does it work?"
+        content = "Intuitive tools help you configure your virtual bot in 10 mins"
+        # image   = "images/triniti.png"
+
+     # Homepage product1 Section
+    [params.product1]
+        enable  = true
+        title   = "Automate your customer support"
+        content = "Transform your customer service, reduce cost, happier customers"
+        image   = "images/product/product1.png"
+
+    # Homepage product2 Section
+    [params.product2]
+        enable  = true
+        title   = "Go live in minutes, achieve high accuracy"
+        content = "No manual annotation, cutting edge deep learning algorithms"
+        image   = "images/product/product2.svg"
+
+    # Homepage product3 Section
+    [params.product3]
+        enable  = true
+        title   = "All you need for next gen virtual assistant"
+        content = "Natural conversations, design conversation journeys with OmniChannel capability"
+        image   = "images/product/product3.svg"
 
     # Call to Action
     [params.cta]
         enable  = true
-        title   = "SO WHAT YOU THINK ?"
-        content = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis,<br>possimus commodi, fugiat magnam temporibus vero magni recusandae? Dolore, maxime praesentium."
+        title   = "Ready to supercharge your customer support"
+        content = "Try TRINITI for free for 30 days - No credit card required"
         btnText = "Contact with me"
         btnURL  = "/contact"
 
-    # Portfolio Section On Homepage
-    [params.portfolio]
-        enable  = true
-        title   = "Latest Works"
-        subtitle= "Aliquam lobortis. Maecenas vestibulum mollis diam. Pellentesque auctor neque nec urna. Nulla sit amet est. Aenean posuere tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus."
+    # # Portfolio Section On Homepage
+    # [params.portfolio]
+    #     enable  = true
+    #     title   = "Latest Works"
+    #     subtitle= "Aliquam lobortis. Maecenas vestibulum mollis diam. Pellentesque auctor neque nec urna. Nulla sit amet est. Aenean posuere tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus."
 
     

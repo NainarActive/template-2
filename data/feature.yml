@@ -1,34 +1,34 @@
 enable  : true
-title   : Offer From Me
+title   : Features
 subtitle: >
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed, <br> quasi dolores numquam dolor vero ex, tempora commodi      repellendus quod laborum.
+
 item    :
   - icon  : ion-ios-flask-outline
-    title : Media heading
+    title : Automatic variants
     description : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
+      Generate synthetic variants automatically to further improve accuracy using CognitiveQnA's powerful paraphrasing algorithms.
 
   - icon  : ion-ios-lightbulb-outline
-    title : Well documented.
+    title : Spell checkers
     description : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
+      Bidirectional contextual spell checking algorithms which correct user input leading to higher accuracy.
 
   - icon  : ion-ios-americanfootball-outline
-    title : Free updates
+    title : Disambiguation
     description : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
+      Disambiguation capability for ambiguous queries with guided user flows for clarification before responding.
 
   - icon  : ion-ios-keypad-outline
-    title : Solid Support
+    title : Failover to agents
     description : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
+      Graceful failover to human agents in case for unclassified queries on both text and voice (IVR).
 
   - icon  : ion-ios-barcode-outline
-    title : Simple Installation
+    title : Analytics
     description : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
+      Measure virtual bot metrics by users, sessions, conversations across channels.
   
   - icon  : ion-ios-lightbulb-outline
-    title : Well documented.
+    title : Scalable & secure
     description : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
+      Scalable, on demand, autoscale infrastructure hosted on AWS platform with banking grade security & data privacy.
