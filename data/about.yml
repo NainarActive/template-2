@@ -1,20 +1,17 @@
 enable  : true
-title   : Why We are Different
+title   : About US
 description: >
-  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequun. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  <br>
-  <br>
-  Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae.
-image   : images/about/about-company.jpg
+  We are a Singapore based Fintech startup with subsidiaries in the US and India, using artificial intelligence (AI) to deliver Conversational Banking services. We help banks and credit unions create intelligent virtual assistants, bringing in automation and insightful customer engagement. The company’s conversational banking technology uses advanced NLP and machine intelligence to enable customers to have natural dialogues over messaging, voice or IoT devices.
+image   : images/about/about-active.png
 aboutItem:
   - title : Why Choose Us
     description: > 
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas.
+      To boost precision in marketing, businesses should be able to target and offer products and services based on customer’s preferences by understanding their profiles intimately.
 
   - title : What You Get
     description: > 
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas.
+      BFSIs can boost their point of sales by providing attractive customer-centric offers and promotions. By presenting relevant and calculated offers that are based on customer’s profile and preferences, businesses can expect a higher percentage of acceptance and reduce rate of abandonment.
 
   - title : Meet The Energy
     description: > 
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas.
+      One of the most basic functionalities of Triniti is to recognise preferred products and services, based on customer’s input and/or profiling. Coupled with Sentiment Analysis and the ability to handle Natural Language Search, we can provide intelligent recommendations that are relevant to customer’s interests.

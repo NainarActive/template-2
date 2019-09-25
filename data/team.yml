@@ -1,38 +1,38 @@
 enable  : true
 title   : MEET THE TEAM
 members  :
-  - name  : Jonathon Andrew
-    image : images/team/team-1.jpg
-    designation : CEO, Project Manager
+  - name  : Ravishankar
+    image : images/team/team-1.jpeg
+    designation : Founders
     description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
-    facebook    : https://www.fb.com/themefisher
-    twitter     : https://www.twitter.com/themefisher
-    linkedIn    : https://www.linkedin.com/themefisher
-    googleplus  : https://plus.google.com/themefisher
+    facebook    : https://www.fb.com/
+    twitter     : https://www.twitter.com/
+    linkedIn    : https://www.linkedin.com/
+    googleplus  : https://plus.google.com/
   
-  - name  : Jesmin Martina
-    image : images/team/team-2.jpg
-    designation : CEO, Project Manager
+  - name  : Shankar Narayanan
+    image : images/team/team-2.jpeg
+    designation : Founders
     description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
-    facebook    : https://www.fb.com/themefisher
-    twitter     : https://www.twitter.com/themefisher
-    linkedIn    : https://www.linkedin.com/themefisher
-    googleplus  : https://plus.google.com/themefisher
+    facebook    : https://www.fb.com/
+    twitter     : https://www.twitter.com/
+    linkedIn    : https://www.linkedin.com/
+    googleplus  : https://plus.google.com/
   
-  - name  : Deu John
-    image : images/team/team-3.jpg
-    designation : CEO, Project Manager
+  - name  : Parikshit Paspulati
+    image : images/team/team-3.jpeg
+    designation : Founders
     description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
-    facebook    : https://www.fb.com/themefisher
-    twitter     : https://www.twitter.com/themefisher
-    linkedIn    : https://www.linkedin.com/themefisher
-    googleplus  : https://plus.google.com/themefisher
+    facebook    : https://www.fb.com/
+    twitter     : https://www.twitter.com/
+    linkedIn    : https://www.linkedin.com/
+    googleplus  : https://plus.google.com/
 
-  - name  : Anderson Martin
-    image : images/team/team-4.jpg
-    designation : CEO, Project Manager
-    description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
-    facebook    : https://www.fb.com/themefisher
-    twitter     : https://www.twitter.com/themefisher
-    linkedIn    : https://www.linkedin.com/themefisher
-    googleplus  : https://plus.google.com/themefisher
+  # - name  : Anderson Martin
+  #   image : images/team/team-4.jpg
+  #   designation : CEO, Project Manager
+  #   description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
+  #   facebook    : https://www.fb.com/themefisher
+  #   twitter     : https://www.twitter.com/themefisher
+  #   linkedIn    : https://www.linkedin.com/themefisher
+  #   googleplus  : https://plus.google.com/themefisher

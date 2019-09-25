@@ -14,11 +14,11 @@ publishDir = "docs"
         url     = "about"
         weight  = 2
     [[menu.nav]]
-        name    = "Service"
+        name    = "Features"
         url     = "service"
         weight  = 3
     [[menu.nav]]
-        name    = "Gallery"
+        name    = "Pricing"
         url     = "gallery"
         weight  = 4
     [[menu.nav]]
