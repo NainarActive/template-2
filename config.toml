@@ -44,7 +44,7 @@ publishDir = "docs"
     # Banner Section
     [params.banner]
         enable  = true
-        bgImage = "images/slider.jpg"
+        bgImage = "images/bg.png"
         heading = "SUPERCHARGE YOUR CUSTOMER SUPPORT"
         description = "WITH NEXT-GEN VIRTUAL BOTS."
         btn     = true
