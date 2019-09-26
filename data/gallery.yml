@@ -6,3 +6,21 @@
 #   - image : images/portfolio/item-4.jpg
 #   - image : images/portfolio/item-5.jpg
 #   - image : images/portfolio/item-6.jpg
+
+enable  : true
+title   : About US
+description: >
+  We are a Singapore based Fintech startup with subsidiaries in the US and India, using artificial intelligence (AI) to deliver Conversational Banking services. We help banks and credit unions create intelligent virtual assistants, bringing in automation and insightful customer engagement. The company’s conversational banking technology uses advanced NLP and machine intelligence to enable customers to have natural dialogues over messaging, voice or IoT devices.
+image   : images/about/about-active.png
+aboutItem:
+  - title : Why Choose Us
+    description: > 
+      To boost precision in marketing, businesses should be able to target and offer products and services based on customer’s preferences by understanding their profiles intimately.
+
+  - title : What You Get
+    description: > 
+      BFSIs can boost their point of sales by providing attractive customer-centric offers and promotions. By presenting relevant and calculated offers that are based on customer’s profile and preferences, businesses can expect a higher percentage of acceptance and reduce rate of abandonment.
+
+  - title : Meet The Energy
+    description: > 
+      One of the most basic functionalities of Triniti is to recognise preferred products and services, based on customer’s input and/or profiling. Coupled with Sentiment Analysis and the ability to handle Natural Language Search, we can provide intelligent recommendations that are relevant to customer’s interests.
